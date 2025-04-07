@@ -1,4 +1,3 @@
-```markdown
 # SAS Gaming Machine Communication
 
 This package provides a robust system for communicating with gaming machines using the SAS Protocol. It supports tasks such as sending commands, receiving responses, and handling errors such as wrong CRC values. The package also includes a flexible task system with both one-shot and listener tasks for capturing events from the machines.
@@ -107,4 +106,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 
 This project is licensed under the MIT License.
-```
