@@ -16,10 +16,8 @@ This package provides a robust system for communicating with gaming machines usi
 Install the package using pip:
 
 ```bash
-pip install sas-gaming-machine
+pip install sas_comm_py
 ```
-
-> **Note:** Replace `sas-gaming-machine` with the actual package name if different.
 
 ## Usage
 
